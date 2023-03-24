@@ -1,0 +1,22 @@
+2825b3c (HEAD -> master) For main9 Merge branch 'vetka9'
+27e62fa For main8 Merge branch 'vetka8'
+90e14cc For main7 Merge branch 'vetka7'
+22b013a For main6 Merge branch 'vetka6'
+4878279 For main5 Merge branch 'vetka5'
+343aae9 For main4 Merge branch 'vetka4'
+aa40632 For main3 Merge branch 'vetka3'
+c06469b For main10 Merge branch 'vetka10'
+c30deef Merge branch 'vetka2'
+754bd8d (vetka10) Добавлен файл main10.py для языка Python
+1d8d06d (vetka9) Добавлен файл main9.py для языка Python
+4817ecf (vetka8) Добавлен файл main8.py для языка Python
+a66c94d (vetka7) Добавлен файл main7.py для языка Python
+1b6e0fb (vetka6) Добавлен файл main6.py для языка Python
+bf54510 (vetka5) Добавлен файл main5.py для языка Python
+44a991e (vetka4) Добавлен файл main4.py для языка Python
+1dfdfeb (vetka3) Добавлен файл main3.py для языка Python
+b803afa (vetka2) Добавлен файл main2.py для языка Python
+06d3be8 (refs/stash) WIP on vetka1: 6954837 Добавлен файл main1.py для языка Python
+7d2c5a6 index on vetka1: 6954837 Добавлен файл main1.py для языка Python
+6954837 (vetka1) Добавлен файл main1.py для языка Python
+29baa37 Добавлен файл index.html с информацией о студенте
